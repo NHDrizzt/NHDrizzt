@@ -147,14 +147,10 @@
 <details>
 
 <summary>⚡ GitHub Stats</summary>
-
-  
-
 <img  align="left"  alt="NHDrizzt GitHub Stats"  src="https://github-readme-stats.vercel.app/api?username=NHDrizzt&show_icons=true&hide_border=true"  />
-
-  
-
 </details>
 
-  
-  
+<details>
+<summary>⚡ GitHub Langs</summary>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guihrib&layout=compact&langs_count=7&show_icons=true&theme=react&line_height=27&title_color=fffff1&bg_color=DEG,9E938E,D7D2D0" style="max-width:100%;">
+</details>
