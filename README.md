@@ -152,5 +152,5 @@
 
 <details>
 <summary>⚡ GitHub Langs</summary>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guihrib&layout=compact&langs_count=7&show_icons=true&theme=react&line_height=27&title_color=fffff1&bg_color=DEG,9E938E,D7D2D0" style="max-width:100%;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NHDrizzt&layout=compact&langs_count=7&show_icons=true&theme=react&line_height=27&title_color=fffff1&bg_color=DEG,9E938E,D7D2D0" style="max-width:100%;">
 </details>
