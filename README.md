@@ -150,7 +150,7 @@
 
   
 
-<img  align="left"  alt="NHDrizzt GitHub Stats"  src="[https-github-com-nhd-rizzt-github-readme-stats-8bj2u5isp.vercel.app](https://https-github-com-nhd-rizzt-github-readme-stats-8bj2u5isp.vercel.app)/api?username=NHDrizzt&show_icons=true&hide_border=true"  />
+<img  align="left"  alt="NHDrizzt GitHub Stats"  src="https-github-com-nhd-rizzt-github-readme-stats.vercel.app/api?username=NHDrizzt&show_icons=true&hide_border=true"  />
 
   
 
