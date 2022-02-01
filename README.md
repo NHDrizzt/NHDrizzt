@@ -16,13 +16,13 @@
 
   
 
-- 🔭 I'm currently working on a SpringBoot Web aplication!
+- 🔭 I'm currently working on a SpringBoot aplication!
 
 - 🌱 I’m currently learning everything i can 🤣
 
 - 👯 I’m looking to collaborate with any people at all!
 
-- 🥅 2021 Goals: Contribute to any Open Source projects and get a job as a Junior BackEnd Developer
+- 🥅 2022 Goals: Contribute to any Open Source projects and get a job as a Junior BackEnd Developer
 
 - ⚡ Fun fact: I love to play piano and videogames!
 
