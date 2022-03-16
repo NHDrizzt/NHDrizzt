@@ -6,7 +6,7 @@
 
   
 
-### I'm a Informational Systems student. i've been working on backend since 2021 by doing a few projects and courses thoughout the internet.
+### I'm a Information System student. i've been working on backend since 2021 by doing a few projects and courses thoughout the internet.
 
 ### I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
