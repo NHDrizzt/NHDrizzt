@@ -16,7 +16,7 @@
 
   
 
-- 🔭 I'm currently working on a SpringBoot aplication!
+- 🔭 I'm currently working on a Library project with Kotlin and Spring!
 
 - 🌱 I’m currently learning everything i can 🤣
 
