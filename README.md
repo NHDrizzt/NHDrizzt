@@ -1,30 +1,20 @@
 
-### Hi there, i hope you are fine 👋
+### Gabriel Carvalho
 
-  
+## Aiming for Junior Software Engineer and Technical Writer and Speaker
 
+<details>
+<summary>⚡ GitHub Langs</summary>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NHDrizzt&layout=compact&langs_count=7&show_icons=true&theme=react&line_height=27&title_color=fffff1&bg_color=DEG,9E938E,D7D2D0" style="max-width:100%;">
+</details>
 
-  
+## I'm a Information System student, 9°. I work in backend development, using best programming practices such as SOLID, Design Patterns, TDD, DDD, among others, and know about scrum ceremonies (Sprint Planning, Daily Meeting, Sprint Review and Retrospective), focusing on problems and solutions everyday. I'm Always open to new challenges and ready to face changes.
 
-### I'm a Information System student. i've been working on backend since 2021 by doing a few projects and courses thoughout the internet.
+## I'm currently working on a project with Kotlin and my TCC with .Net Core using concepts like DDD and Docker
 
-### I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
-
-  
+## I’m also starting to work with frontend angular for more knowledge about the whole web development practices
 
 #### 🌍"If you can't explain it simply, you don't understand it well enough" - Albert Einstein
-
-  
-
-- 🔭 I'm currently working on a Library project with Kotlin and Spring!
-
-- 🌱 I’m currently learning everything i can 🤣
-
-- 👯 I’m looking to collaborate with any people at all!
-
-- 🥅 2022 Goals: Contribute to any Open Source projects and get a job as a Junior BackEnd Developer
-
-- ⚡ Fun fact: I love to play piano and videogames!
 
 
   <div align="center">
@@ -89,50 +79,6 @@
 
 <br  />
 
-<br  />
-
-  
-
----
-
-  
-
-### 📺 Latest YouTube Videos
-
-  
-
-<!-- YOUTUBE:START -->
-
-<!-- YOUTUBE:END -->
-
-  
-
-➡️ [Videos soon at...](https://www.youtube.com/channel/UC6TXCBeTeCnnkaojUr-avKQ)
-
-  
-
----
-
-  
-
-### 📕 Latest Blog Posts
-
-  
-
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
-
-  
-
-➡️ [Soon...]
-
-  
-
----
-
-  
-
 <details>
 <summary>⚡ Recent GitHub Activity</summary>
 
@@ -151,7 +97,3 @@
 <img  align="left"  alt="NHDrizzt GitHub Stats"  src="https://github-readme-stats.vercel.app/api?username=NHDrizzt&show_icons=true&hide_border=true"  />
 </details>
 
-<details>
-<summary>⚡ GitHub Langs</summary>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NHDrizzt&layout=compact&langs_count=7&show_icons=true&theme=react&line_height=27&title_color=fffff1&bg_color=DEG,9E938E,D7D2D0" style="max-width:100%;">
-</details>
