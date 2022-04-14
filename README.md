@@ -1,20 +1,17 @@
 
-### Gabriel Carvalho
+## Gabriel Carvalho
 
-## Aiming for Junior Software Engineer and Technical Writer and Speaker
+# Aiming for Junior Software Engineer and Technical Writer and Speaker
 
-<details>
-<summary>⚡ GitHub Langs</summary>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NHDrizzt&layout=compact&langs_count=7&show_icons=true&theme=react&line_height=27&title_color=fffff1&bg_color=DEG,9E938E,D7D2D0" style="max-width:100%;">
-</details>
 
-## I'm a Information System student, 9°. I work in backend development, using best programming practices such as SOLID, Design Patterns, TDD, DDD, among others, and know about scrum ceremonies (Sprint Planning, Daily Meeting, Sprint Review and Retrospective), focusing on problems and solutions everyday. I'm Always open to new challenges and ready to face changes.
+# I'm a Information System student, 9°. I work in backend development, using best programming practices such as SOLID, Design Patterns, TDD, DDD, among others, and know about scrum ceremonies (Sprint Planning, Daily Meeting, Sprint Review and Retrospective), focusing on problems and solutions everyday. I'm Always open to new challenges and ready to face changes.
 
-## I'm currently working on a project with Kotlin and my TCC with .Net Core using concepts like DDD and Docker
+# I'm currently working on a project with Kotlin and my TCC with .Net Core using concepts like DDD and Docker
 
-## I’m also starting to work with frontend angular for more knowledge about the whole web development practices
+# I’m also starting to work with frontend angular for more knowledge about the whole web development practices
 
-#### 🌍"If you can't explain it simply, you don't understand it well enough" - Albert Einstein
+## 🌍"If you can't explain it simply, you don't understand it well enough" - Albert Einstein
 
 
   <div align="center">
