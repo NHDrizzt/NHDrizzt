@@ -3,14 +3,17 @@
 
 Aiming for Junior Software Engineer and Technical Writer and Speaker
 
+
 <div>
 <a href="https://github.com/NHDrizzt">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NHDrizzt&layout=compact&langs_count=7&show_icons=true&theme=react&line_height=27&title_color=fffff1&bg_color=DEG,9E938E,D7D2D0" style="max-width:100%;"> 
 <img  align="left"  alt="NHDrizzt GitHub Stats"  src="https://github-readme-stats.vercel.app/api?username=NHDrizzt&show_icons=true&hide_border=true"  />
 </a>
 </div> 
-  
+ 
+</br> 
 ##
+
 
 I'm a Information System student, 9°. I work in backend development, using best programming practices such as SOLID, Design Patterns, TDD, DDD, among others, and know about scrum ceremonies (Sprint Planning, Daily Meeting, Sprint Review and Retrospective), focusing on problems and solutions everyday. I'm Always open to new challenges and ready to face changes.
 
