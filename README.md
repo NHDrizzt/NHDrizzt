@@ -30,19 +30,16 @@ I’m also starting to work with frontend angular for more knowledge about the w
 
 🌍"If you can't explain it simply, you don't understand it well enough" - Albert Einstein
 
-##
 
   <div align="center">
-    <h2>🧔 Contact</h2>
+    <h2>🧔 Contact & Social ✌</h2>
 </div>
 <p align="center">
   <a href="https://www.linkedin.com/in/gabriel-de-sousa-carvalho/">
   <img alt="Linkedin" src="https://img.shields.io/badge/Gabriel_Carvalho-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white"/>
   </a>
 </p>
-
 <div align="center">
-    <h2>✌ Social</h2>
 </div>
 <p align="center">
     <a href="https://discord.com/users/242040259884351488">
