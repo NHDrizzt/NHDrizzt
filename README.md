@@ -3,15 +3,20 @@
 
 Aiming for Junior Software Engineer and Technical Writer and Speaker
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NHDrizzt&layout=compact&langs_count=7&show_icons=true&theme=react&line_height=27&title_color=fffff1&bg_color=DEG,9E938E,D7D2D0" style="max-width:100%;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NHDrizzt&layout=compact&langs_count=7&show_icons=true&theme=react&line_height=27&title_color=fffff1&bg_color=DEG,9E938E,D7D2D0" style="max-width:100%;"> 
+<img  align="left"  alt="NHDrizzt GitHub Stats"  src="https://github-readme-stats.vercel.app/api?username=NHDrizzt&show_icons=true&hide_border=true"  />
 
-# I'm a Information System student, 9°. I work in backend development, using best programming practices such as SOLID, Design Patterns, TDD, DDD, among others, and know about scrum ceremonies (Sprint Planning, Daily Meeting, Sprint Review and Retrospective), focusing on problems and solutions everyday. I'm Always open to new challenges and ready to face changes.
+  
+  
 
-# I'm currently working on a project with Kotlin and my TCC with .Net Core using concepts like DDD and Docker
 
-# I’m also starting to work with frontend angular for more knowledge about the whole web development practices
+I'm a Information System student, 9°. I work in backend development, using best programming practices such as SOLID, Design Patterns, TDD, DDD, among others, and know about scrum ceremonies (Sprint Planning, Daily Meeting, Sprint Review and Retrospective), focusing on problems and solutions everyday. I'm Always open to new challenges and ready to face changes.
 
-## 🌍"If you can't explain it simply, you don't understand it well enough" - Albert Einstein
+I'm currently working on a project with Kotlin and my TCC with .Net Core using concepts like DDD and Docker
+
+I’m also starting to work with frontend angular for more knowledge about the whole web development practices
+
+🌍"If you can't explain it simply, you don't understand it well enough" - Albert Einstein
 
 
   <div align="center">
@@ -71,26 +76,3 @@ Aiming for Junior Software Engineer and Technical Writer and Speaker
         <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
     </p>
 </div>
-
-  
-
-<br  />
-
-<details>
-<summary>⚡ Recent GitHub Activity</summary>
-
-<!--START_SECTION:activity-->
-
-
-<!--END_SECTION:activity-->
-
-</details>
-
-  
-
-<details>
-
-<summary>⚡ GitHub Stats</summary>
-<img  align="left"  alt="NHDrizzt GitHub Stats"  src="https://github-readme-stats.vercel.app/api?username=NHDrizzt&show_icons=true&hide_border=true"  />
-</details>
-
