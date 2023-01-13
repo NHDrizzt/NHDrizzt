@@ -22,10 +22,10 @@ Aiming for Junior Software Engineer and Technical Writer and Speaker
 </div>
 
 ## 
-I'm a Information System student, 9°. I work in backend development, using best programming practices such as SOLID, Design Patterns, TDD, DDD, among others, and know about scrum ceremonies (Sprint Planning, Daily Meeting, Sprint Review and Retrospective), focusing on problems and solutions everyday. I'm Always open to new challenges and ready to face changes.
+I'm graduated with a degree in Information System, worked fullstack for 6 months in a startup, using best programming practices such as SOLID, Design Patterns, TDD, DDD, Hexagonal, among others, and know about scrum ceremonies (Sprint Planning, Daily Meeting, Sprint Review and Retrospective), focusing on problems and solutions everyday. I'm Always open to new challenges and ready to face changes.
 
-I'm currently working on a project with Kotlin
-I’m also starting to work with frontend angular for more knowledge about the whole web development practices
+I'm currently working on a specialization with Trybe.
+
 
 🌍"If you can't explain it simply, you don't understand it well enough" - Albert Einstein
 
