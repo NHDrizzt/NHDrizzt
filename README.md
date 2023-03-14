@@ -23,7 +23,7 @@ Aiming for Junior Software Engineer and Technical Writer and Speaker
 </div>
 
 ## 
-I'm graduated with a degree in Information System, worked fullstack for 6 months in a startup, using best programming practices such as SOLID, Design Patterns, TDD, DDD, Hexagonal, among others, and know about scrum ceremonies (Sprint Planning, Daily Meeting, Sprint Review and Retrospective), focusing on problems and solutions everyday. I'm Always open to new challenges and ready to face changes.
+I'm graduated with a degree in Information System, worked fullstack in a startup using best programming practices such as SOLID, Design Patterns, TDD, DDD, Hexagonal, among others, and know about scrum ceremonies (Sprint Planning, Daily Meeting, Sprint Review and Retrospective), focusing on problems and solutions everyday. I'm Always open to new challenges and ready to face changes.
 
 I'm currently working on a specialization with Trybe.
 -------------------------------------------------------
