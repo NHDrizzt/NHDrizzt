@@ -30,7 +30,7 @@ I'm currently working on a specialization with Trybe.
 
 🌍"If you can't explain it simply, you don't understand it well enough" - Albert Einstein
 
-
+---
   <div align="center">
     <h2>🧔 Contact & Social ✌</h2>
 </div>
