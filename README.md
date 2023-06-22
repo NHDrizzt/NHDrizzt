@@ -28,7 +28,7 @@ I'm graduated with a degree in Information System, worked fullstack in a startup
 I'm currently working on a specialization with Trybe.
 
 
-🌍"If you can't explain it simply, you don't understand it well enough" - Albert Einstein
+🌍"To be honest, a good developer's greatest fear is discovering that something working but not knowing how it works."
 
   <div align="center">
     <h2>🧔 Contact & Social ✌</h2>
