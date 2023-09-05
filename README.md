@@ -27,6 +27,8 @@ I'm graduated with a degree in Information System, worked fullstack in a startup
 
 I'm currently working on a specialization with Trybe.
 
+Check out my portfolio [here](https://gabriel-carvalho.netlify.app/)
+
 
 🌍"To be honest, a good developer's greatest fear is discovering that something working but not knowing how it works."
 
