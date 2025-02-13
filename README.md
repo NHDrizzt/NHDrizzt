@@ -1,7 +1,7 @@
 
 ## Gabriel Carvalho
 
-Aiming for Junior Software Engineer and Technical Writer and Speaker
+Junior Software Engineer
 
 
 <div>
